@@ -1,104 +1,32 @@
-## 🚀 Successful landing, I repeat successful landing. 
 
-My name is Raluca & I am really happy to be part of this community.
+# 👩🏻‍💻 About me:
+#### 🔭 I’m currently working on landing an internship at FAANG
+#### 🌱 I’m currently learning DSA & full-stack development with Rails
+#### 👯 I’m looking to collaborate on open-source
+#### 💬 Ask me about start-ups
+#### 📃 Learn more about my experience from my [resume]()
 
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=flat&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat&logo=sketch&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
-<br> 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rusuraluca&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rusuraluca&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rusuraluca&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 👩‍🎓 Education
-### __Bachelor's Degree in Computer Science and Mathematics__ 
-Babeș-Bolyai University
-
-Oct 2021 - July 2024
-
-* [Coursework & Projects](https://github.com/rusuraluca/ubb-uni-compsci-math)
-
-
-<br> 
-
-
-## 💰 Employment
-### Duty Ventures
-Junior Software Developer     
-
-Remote | June 2021 - Present    
-
-* Built the MVP for [Highway61](https://highway61.co/) in about two weeks using Express, NodeJs on the backend, and ReactJS for the frontend, and explained to the client all the software decisions I’ve made. The application is hosted on Heroku. The app is an online audio conference product, similar to Clubhouse. Able to effectively self-manage during the first stage of the web app, as well as collaborate later as part of a productive team. I assisted in the maintenance of the application, as well as fixing production bugs.
-* Built the [company website](http://dutyventures.com) using HTML/CSS/JavaScript and the [blog](http://blog.dutyventures.com) using Jekyll.
-* Worked in an agile environment, having weekly meetings with the team and daily scrum.
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rusuraluca&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-<br> 
+[![](https://visitcount.itsvg.in/api?id=rusuraluca&icon=0&color=1)](https://visitcount.itsvg.in)
 
+---
 
-## 👩🏻‍💻 Personal Projects
-### __Basically all I like to do__ 
-[Questions Game](https://www.producthunt.com/products/questions)
-* Card game you can play online. Each round, players get a question to which they have to answer. 
-* It has different question packs depending on who you're playing with. 
-* You can play from any device and also remotely with the video calling feature.
-* Launched it on ProductHunt and got almost 200 upvotes from tech-product enthusiasts. 
-* The game was played worldwide in more than 5 countries.
-* Communicated with users to understand their needs. Got over 1000+ players. 
+# 🌐 How to reach me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsralucarusu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ralucamariarusu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsralucarusu) 
 
-[COVID-19 Tracker](https://romanian-corona-traker.netlify.app)
-* I wanted to take my skills and contribute to the crisis the world was facing. This is a web app that fetches real-time data of the numbers regarding COVID-19 victims and visualizes them through a graphic by countries or worldwide (infected, deaths, recovered). 
-* The visual data does present nicely, but I had to do a few media queries to optimize it for mobile use.  
-* Built with React.js (Front-end) & Node.js (Back-end). 
-* Deployed on Netlify. 
-* To present the data visually, I used Chart.js. 
-* I also used CountUp to add numbers counting up in the card component.
+# 💰 You can also buy me a coffee  
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ralucarusu) 
 
-[Is this a human?](https://rusuraluca-facerecognition-brain.netlify.app)
-* Web app that detects human faces in an image when provided with the URL image. 
-* Deployed on Heroku. To detect human faces I used the Clarifai API. Built with HTML, CSS, JavaScript, React, Tachyons, Particles.js (Front-end) and Node.js, Express, Knex, Bcrypt, SQL, PostgreSQL (Back-end).
-
-[Find the movie](https://codepen.io/raluca-rusu/pen/PoZxEyX)
-* This is a simple movie finder app in which you can find information about any movie just by entering its title.
-* Used the OMDb API, a RESTful web service, to fetch the movie information.
-
-
-<br> 
-
-
-
-## 🏆 Awards
-* __First Tech Challenge Dean’s List Award - Global Championship, Detroit, USA 2019__.
-  I won the award that recognizes great examples of student leaders, who have led their robotics team and communities to increase awareness for FIRST and its mission to inspire students into STEM domains, while also achieving personal technical expertise and accomplishment.
-
-
-* __1st Place Web Section Polihack__.Hackathon organized by the Technical University of Cluj-Napoca with the theme: Green solutions for a brighter future. Won 1st place out of 30 teams with a [food ordering web app](https://github.com/rusuraluca/polihackv12) where restaurants could sell daily, at lower prices, the surplus of food they have instead of throwing it to waste. 
-
-
-<br> 
-
-
-## 💙 Volunteering 
-### First Tech Challenge Robotics Competition 	 
-Mentor, Team Leader, Community Leader 	
-
-Romania | September 2017 - May 2021
-* Participated for 4 years in First Tech Challenge - a global robotics competition that aims to form a strong community of passionate students interested in STEM fields. 
-* Worked in different departments: robot design, robot programming, and technical writing. 
-* I helped organize meetings and events with other teams in the region.
-* After 2 years in the team, I was voted to become the team leader. I led the team for the next two years to earn the highest awards in the competition (Inspire Award 1st place). 
-* Oversaw a team of 20 high school students and streamlined content pipeline from robot prototyping 
-to competition.
-
-
-
-<!--
-**rusuraluca/rusuraluca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
