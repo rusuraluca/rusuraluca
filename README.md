@@ -1,7 +1,7 @@
 
 # 👩🏻‍💻 About me:
 #### 🔭 I’m currently working on landing an internship at FAANG
-#### 🌱 I’m currently learning DSA & full-stack development with Rails
+#### 📚 I’m currently learning DSA & full-stack development with Rails, while aslo pursuing a compsci and math bachlor's degree at Babeș-Bolyai University 
 #### 👯 I’m looking to collaborate on open-source
 #### 💬 Ask me about start-ups
 #### 📃 Learn more about my experience from my [resume]()
