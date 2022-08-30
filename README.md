@@ -1,3 +1,4 @@
+[![MasterHead](cover.png)]()
 
 # About me
 #### 👩🏻‍💻 I’m currently working on landing an internship at FAANG
