@@ -1,4 +1,4 @@
-<img src="cover.png" width="28">
+[[MasterHead](cover.png)]()
 
 # About me
 #### 👩🏻‍💻 I’m currently working on landing an internship at FAANG
