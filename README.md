@@ -3,9 +3,9 @@
 # About me
 #### 🤖 Started with robotics
 #### 📚 Pursuing a Comp Sci and Math Bachelor Degree at Babeș-Bolyai University 
-#### 👩🏻‍💻 I’m currently working on landing an internship at FAANG
-#### 🛣 I’m also learning Full-Stack Development with Rails
-#### 💬 Ask me about start-ups
+#### 💬 Excited about start-ups
+#### 👩🏻‍💻 Currently working on landing an internship at FAANG
+#### 🛣 Learning Full-Stack Development with Rails
 #### 📃 Learn more about my experience from my [resume]()
 
 # My Hub
