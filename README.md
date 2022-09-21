@@ -2,7 +2,7 @@
 
 # About me
 #### 🤖 Started with robotics
-#### 📚 Pursuing a Comp Sci and Math Bachelor Degree at Babeș-Bolyai University 
+#### 📚 Pursuing a Comp Sci Bachelor Degree at Babeș-Bolyai University 
 #### 💬 Excited about start-ups
 #### 🛣 Learning Full-Stack Development with Rails
 #### 📃 Learn more about my experience from my [resume]()
