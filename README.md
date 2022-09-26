@@ -1,9 +1,10 @@
 ![alt text](https://github.com/rusuraluca/rusuraluca/blob/main/cover.png?raw=true)
 
 # About me
-#### 🤖 Started with robotics in the FTC Robotics Competition and [competitive programming](https://github.com/rusuraluca/dsa-highschool)
+#### 🤖 Started with [FIRST Robotics Competition](https://www.firstinspires.org/) and [Competitive Programming](https://github.com/rusuraluca/dsa-highschool)
+#### 👩🏻‍💻 Strong background in [DSA](https://github.com/rusuraluca/dsa-python)
 #### 🦠 When the pandemic hit I started freelancing web development services (check out my pined projects)
-#### 📚 Currently a second-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University 
+#### 📚 Currently a second-year student pursuing a [Computer Science Bachelor Degree at Babeș-Bolyai University](https://github.com/rusuraluca/ubb-computer-science)
 #### 💬 Excited about remote work, text-to-image ai and start-ups
 #### 📃 Learn more about my experience from my [resume]()
 
