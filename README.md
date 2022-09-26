@@ -1,10 +1,10 @@
 ![alt text](https://github.com/rusuraluca/rusuraluca/blob/main/cover.png?raw=true)
 
 # About me
-#### 🤖 Started with robotics
-#### 📚 Pursuing a Comp Sci Bachelor Degree at Babeș-Bolyai University 
-#### 💬 Excited about start-ups
-#### 🛣 Learning Full-Stack Development with Rails
+#### 🤖 Started with robotics in the FTC Robotics Competition and [competitive programming](https://github.com/rusuraluca/dsa-highschool)
+#### 🦠 When the pandemic hit I started freelancing web development services (check out my pined projects)
+#### 📚 Currently a second-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University 
+#### 💬 Excited about remote work, text-to-image ai and start-ups
 #### 📃 Learn more about my experience from my [resume]()
 
 # My Hub
