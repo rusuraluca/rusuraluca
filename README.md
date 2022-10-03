@@ -5,7 +5,6 @@
 #### 👩🏻‍💻 Strong background in [DSA](https://github.com/rusuraluca/dsa-python)
 #### 🦠 When the pandemic hit I started freelancing web development services (check out my pined projects)
 #### 📚 Currently a second-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University [[Courses](https://github.com/rusuraluca/ubb-computer-science)]
-#### 💬 Excited about [tech, remote work, text-to-image ai and start-ups](https://blog.dutyventures.com/)
 #### 📃 Learn more about my experience from my [resume]()
 
 # My Hub
