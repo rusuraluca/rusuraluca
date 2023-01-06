@@ -3,7 +3,7 @@
 # About me
 #### 🤖 Started with [FIRST Robotics Competition](https://www.firstinspires.org/) and [Competitive Programming](https://github.com/rusuraluca/dsa-highschool)
 #### 👩🏻‍💻 Strong background in [DSA](https://github.com/rusuraluca/dsa-python)
-#### 🦠 When the pandemic hit I started freelancing web development services (check out my pined projects)
+#### 🦠 When the pandemic hit I started learning web development and working on different projects (check out my pined projects)
 #### 📚 Currently a second-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University [[Courses](https://github.com/rusuraluca/ubb-computer-science)]
 #### 📃 Learn more about my experience from my [resume]()
 
