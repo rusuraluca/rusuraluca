@@ -3,7 +3,7 @@
 # About me
 #### 🤖 Started with [FIRST Robotics Competition](https://www.firstinspires.org/) and [Competitive Programming](https://github.com/rusuraluca/dsa-highschool)
 #### 👩🏻‍💻 Strong background in [DSA](https://github.com/rusuraluca/dsa-python)
-#### 📚 Currently a second-year student pursuing a Computer Science Bachelor Degree at Babeș-Bolyai University [[Courses](https://github.com/rusuraluca/ubb-computer-science)]
+#### 📚 Computer Science Bachelor's Degree @Babeș-Bolyai University [[Courses](https://github.com/rusuraluca/ubb-computer-science)] [[Thesis](https://github.com/rusuraluca/thesis)]
 #### 📃 Learn more about my experience from my [resume](https://docs.google.com/document/d/1IqILZkQz0OrAwaCOoQA9fMZ1r7SIqmIfusWGL1qM9PM/edit?usp=sharing)
 
 # My Hub
