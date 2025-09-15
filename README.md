@@ -7,7 +7,7 @@
 
 # My Hub
 
-[![](https://visitcount.itsvg.in/api?id=rusuraluca&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=rusuraluca)
 
 
 > Progamming languages
