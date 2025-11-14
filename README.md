@@ -83,7 +83,3 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-
-# GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=rusuraluca&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rusuraluca&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
